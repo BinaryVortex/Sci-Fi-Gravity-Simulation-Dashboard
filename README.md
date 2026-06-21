@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 🌌 Sci‑Fi Gravity Simulation Dashboard
 
 A futuristic, interactive gravity simulation dashboard built with **HTML, CSS, and JavaScript**. This project combines real-time gravitational physics visualization with a sleek sci‑fi interface, allowing users to explore celestial motion, orbital mechanics, and dynamic particle interactions directly in the browser.
